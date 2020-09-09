@@ -29,10 +29,11 @@
 
 ##### Uniswap
   - total sales: 10%, 10,000,000 AWT
-  - price: 1 ETH = 300 AWT
-  - Initial Liquidity: 1,000,000
-  - Date: Coming soon
- 
+  - price: 1 ETH = 350 AWT
+  - Initial Liquidity: 1,000,000 AWT - 2857.1428 ETH
+  - Date: Coming soon!
+  - Contract address: Coming soon!
+  
 #### Awase token version
 
 The vision of Aweson token is very simple. It provides continuous dividends and benefits to supporters of the awt community.
