@@ -45,12 +45,12 @@ The vision of Aweson token is very simple. It provides continuous dividends and 
 #### CEX Exchange
   - Token supply: 38% of total supply (3,800,000 AWT)
   - Date: Q4 of 2020 and Q1 of 2021
-#### Team hold 
+#### Marketing & DevelopTeam
   - 20% of total supply (2,000,000 AWT)
   - Team has burned their tokens.
 #### Mining rewards
   - 10% of total supply (1,000,000 AWT)
   - This part of the award is used to reward those who have made major contributions to the construction of the community.
 #### Airdrop
-  - 1%  of total supply (100,000 AWT)
+  - 1% of total supply (100,000 AWT)
   - This part of the awards is for lucky contributors to announce the AWT community.
