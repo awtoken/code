@@ -15,13 +15,12 @@
                      /////////////////////////////////////////////////////////////////////////
 ```
 ### Basic Introduction of AWToken
-``
 > Token type: ERC-20
 
 > Total supply: 10,000,000 AWT
 
 > Initial price: 1 ETH = 500 AWT
-``
+
 #### Awason token version
 The vision of Aweson token is very simple. It provides continuous dividends and benefits to supporters of the awt community.
 
