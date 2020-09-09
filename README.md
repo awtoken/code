@@ -13,6 +13,7 @@
 #### AWToken
 
 > **TotalSupply: 10,000,000**
+> **Presale**
 
 #### Awase token version
 
