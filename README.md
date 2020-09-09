@@ -12,7 +12,7 @@
 ```
 #### AWToken
 
->>>> TotalSupply: 10,000,000
+> **TotalSupply: 10,000,000**
 
 #### Awase token version
 
