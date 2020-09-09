@@ -1,4 +1,4 @@
-### Awesa Token Planlist
+### Aweson Token Planlist
 
 ---
 
@@ -21,7 +21,7 @@
 
 **Initial price: 1 ETH = 500 AWT**
 
-#### Awase token version
+#### Awason token version
 The vision of Aweson token is very simple. It provides continuous dividends and benefits to supporters of the awt community.
 
 #### Presale
