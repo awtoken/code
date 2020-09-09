@@ -10,11 +10,13 @@
                      //                                                                     //
                      /////////////////////////////////////////////////////////////////////////
 ```
-#### AWToken
+#### AWToken Plan
 
 > **TotalSupply: 10,000,000**
 
-> **Presale**
+> **Initial price: 1 ETH = 500 AWT**
+
+> **Presale: 1 ETH = 500AWT, **
 
 #### Awase token version
 
