@@ -15,9 +15,11 @@
                      /////////////////////////////////////////////////////////////////////////
 ```
 ### Introduction of AWToken
+**Token type: ERC-20**
+**Total supply: 10,000,000 AWT**
 
-**TotalSupply: 10,000,000 AWT**
 **Initial price: 1 ETH = 500 AWT**
+
 #### Awase token version
 The vision of Aweson token is very simple. It provides continuous dividends and benefits to supporters of the awt community.
 
@@ -42,12 +44,11 @@ The vision of Aweson token is very simple. It provides continuous dividends and 
 #### CEX Exchange
   - Token supply: 38% of total supply (3,800,000 AWT)
   - Date: Q4 of 2020 and Q1 of 2021
+#### Team hold 
+  - 20% of total supply (2,000,000 AWT)
+  - Team has burned their tokens
 #### Mining rewards
   20% of total supply (2,000,000 AWT)
 #### Airdrop
   1%  of total supply (100,000 AWT)
-#### Team hold
-  20% of total supply (2,000,000 AWT)
-  
-
 
