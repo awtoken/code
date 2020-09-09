@@ -52,5 +52,5 @@ The vision of Aweson token is very simple. It provides continuous dividends and 
   - 10% of total supply (1,000,000 AWT)
   - This part of the award is used to reward those who have made major contributions to the construction of the community.
 #### Airdrop
-  - 1% of total supply (100,000 AWT)
+  - 2% of total supply (200,000 AWT)
   - This part of the awards is for lucky contributors to announce the AWT community.
